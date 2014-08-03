@@ -21,13 +21,12 @@ to understand what are their interests.
 
 
 To have that information we had to put a lot of things in place, between
-tagging content effectively, used web analytics to all it's pontential and creating
+tagging content effectively, using web analytics to all it's potential, and creating
 systems that would allow us to track things such as email link clicks.
 
 We waited a few weeks for this data to start to populate and created a function
-that assings a point for each of those activities. We also added a decay factor
-to each of them so a "Web Article Point" today is worth "1" but a year ago it will
-be worth 0.02, for example.
+that assigns a point for each of those activities. We also added a decay factor
+to each of them so a "Web Article Point" today is worth "1" but a year ago it worths 0.02, as an example.
 
 We also decided to 'flatten' the point structure a bit (having 50, 100, 1000) points
 might be the same when 'interest' is concerned. So we wanted to stay with a 0-100 range.
@@ -35,4 +34,4 @@ might be the same when 'interest' is concerned. So we wanted to stay with a 0-10
 At ATD we have over 10 lead score fields. One for each of our content areas.
 
 We use this information to target ads on our site, recommended products and a lot
-of other things!
+of other things.

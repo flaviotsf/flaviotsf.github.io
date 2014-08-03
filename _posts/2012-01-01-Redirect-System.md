@@ -5,11 +5,11 @@ thumb: redirect.png
 ---
 
 The ATD Redirect System was born soon after we started discussing what we
-could do to have an effective lead scoring algorithm at ATD.
+could do to have an effective lead scoring algorithm.
 
-We have a pretty sophisticated web analytics implementation but we wanted to
+We have a pretty sophisticated web analytics implementation and we wanted to
 ensure we had an effective way to track incoming links from emails. If we are
-promoting an external site that is outside our web properties we can still track
+promoting an external site outside our web properties, we can still track
 tagging.
 
 Emails are a primary form of communication between ATD and its members
@@ -31,4 +31,4 @@ including discount, affiliate, and various other codes used for tracking
 inbound marketing in tools like Google Analytics and Coremetrics.
 
 The Redirect System still is a huge success. We have over 10,000 redirect
-links created and tons and tons of logs (almost 3,000,000 records)
+links created and tons of logs (almost 3,000,000 records).

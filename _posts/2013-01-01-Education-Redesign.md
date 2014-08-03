@@ -16,7 +16,7 @@ for our users varying from topic, location, price among others.
 
 
 We also spent a good amount of time on our program detail pages, making sure they
-are not overly long and but still contain all the information necessary
+were not overly long but still contained all the information necessary
 for someone to be able to tell if a certain program is right for them.
 
 
@@ -31,7 +31,7 @@ Facilitator search pages and all. Check out the [ATD Education](http://www.astd.
 *Adding a program to your cart is easy!*
 
 ![Facilitator Search](/public/edu-fac-search.png)
-*Among other things, we allow to search for facilitators.*
+*Among other things, we allow searching for facilitators.*
 
 ![Detail Page](/public/edu-detail.png)
 *Our program detail page. We used [static Google Maps images](https://developers.google.com/maps/documentation/staticmaps/) to show the location while
