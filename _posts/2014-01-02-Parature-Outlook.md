@@ -11,7 +11,7 @@ GTD realies heavily on Outlook: folders, tasks, etc. The issue I had was that
 we use a ticketing system at work so my Outlook Tasks were not giving me a unified
 view of what's on my plate.
 
-So I thought... Why not get those tickets inside outlook? To do that I created
+So I thought... Why not get those tickets inside Outlook? To do that I created
 a simple Outlook Add-in that shows openend ticket items as well as their details.
 Parature's APIs were not very well documented at the time (seems that after
 Microsoft acquired them that things are getting better) nor fully featured
