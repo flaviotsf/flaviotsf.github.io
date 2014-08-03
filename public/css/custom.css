@@ -22,6 +22,8 @@
 
 .image-post img {
 	border-radius: 0;
+	max-width: 10.5rem;
+	max-height: 10.5rem;
 }
 
 .image-post .label {
@@ -65,17 +67,20 @@
 
 /* Header */
 .masthead  {
+	-webkit-translate: translateX(0);
   position: fixed;
   width: 100%;
   top: 0;
   height: 200px;
+	-webkit-transition: all .2s ease-in-out;
+					transition: all .2s ease-in-out;
 }
 
 
 .masthead-active {
   height: 70px;
-  -webkit-transition: all .1s ease-in-out;
-          transition: all .1s ease-in-out;
+  -webkit-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
 }
 
 .masthead h3 {

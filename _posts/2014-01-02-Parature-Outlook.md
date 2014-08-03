@@ -13,8 +13,9 @@ view of what's on my plate.
 
 So I thought... Why not get those tickets inside outlook? To do that I created
 a simple Outlook Add-in that shows openend ticket items as well as their details.
-Parature's API's were not as well documented nor fully featured but I managed to
-get the bulk of it done.
+Parature's APIs were not very well documented at the time (seems that after
+Microsoft acquired them that things are getting better) nor fully featured
+but I managed to get what I wanted done.
 
 This was a huge time-saver and made sure the team didn't drop the ball on any
 opened item.

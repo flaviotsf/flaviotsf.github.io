@@ -6,15 +6,15 @@ thumb: backstage.png
 The idea behind Twitter backstage was to create an aggregated page
 of tweets and information about a certain hashtag.
 
-Perfect fits are transitional events like conferences
-or sporting events like Winbledon or the US Open, for exemple.
+Perfect fits are conferences or sporting events like Winbledon or the US Open, for exemple.
 
 Backstage used a [node.js](http://nodejs.org) module to connect to the [Twitter Streaming API](https://dev.twitter.com/docs/api/streaming).
 Every time a certain tweet matched my watched hashtag, Backstage woud:
 
 * Save the data into a no-sql (MongoDB) database
 * Run a few other processes. I was extracting links as well so I could
-build a 'top list' of links shared. To do that, I used Cheerio to extract titles, descriptions and thumbnail images.
+build a 'top list' of links shared. To do that, I used Cheerio to extract titles, descriptions and thumbnail images
+from the links that were being shared.
 
 The goal of Backstage was to have:
 

@@ -4,14 +4,14 @@ title: Make a Point
 thumb: map.png
 ---
 Make a Point was a very cool system to work on. It started with a simple idea:
-can we create a form for people to 'praise' their coworkers? Then we may let
-them exchange praises by gift cards.
+can we create a form for people to submit praise to their coworkers? Then we may let
+them exchange these by gift cards.
 
 I thought the idea was great, but a form by itself would not create a level
 of engagement that we were looking for.
 
-So I thought: Why not create a simple system that folks can see who is receiving
-praise and all?
+So I thought: Why not create a simple system where folks can not only submit these
+but follow what's going on around the company?
 
 This is how Make a Point looks today:
 ![Make a Point Landing Page](/public/map-landing.png)
