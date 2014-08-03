@@ -1,7 +1,14 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>First commit.</p>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+<div class="posts clearfix">
+  {% for post in site.posts %}
+  <div class="image-post">
+    <a href="{{ post.url }}">
+    <div class="label"><span>{{ post.title }}</span></div>
+        <img class="post-thumb" src="/public/article-thumb/{{ post.thumb }}" alt="{{ post.title }}" />
+      </a>
+  </div>
+  {% endfor %}
+</div>
