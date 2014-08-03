@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      'pygments'
 
 # Permalinks
-permalink:        pretty
+permalink:        /projects/:title
 
 # Setup
 title:            Flavio Silva
