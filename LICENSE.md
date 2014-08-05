@@ -1,3 +1,8 @@
+To make this site I'm using:
+
+* Mark Otto's great CSS Lanyon templates for Jekyll
+* jQuery
+
 # Released under MIT License
 
 Copyright (c) 2014 Mark Otto.
