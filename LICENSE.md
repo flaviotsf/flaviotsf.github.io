@@ -2,6 +2,7 @@ To make this site I'm using:
 
 * Mark Otto's great CSS Lanyon templates for Jekyll
 * jQuery
+* Iconmonstr 
 
 # Released under MIT License
 
