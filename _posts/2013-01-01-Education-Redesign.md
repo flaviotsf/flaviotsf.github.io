@@ -7,8 +7,7 @@ thumb: education.png
 Together with the ATD team and a vendor we redesigned the Education section
 of our site.
 
-The goal was to make it easy for folks to find the best program for them
-and to make registration easy.
+The goal was to make it easy for folks to find the program that fit their needs the best. We should also make registration easy.
 
 To do that, we made sure our landing page had many entry points for our
 facetted search page. We also ensured to have many filter options
@@ -16,12 +15,12 @@ for our users varying from topic, location, price among others.
 
 
 We also spent a good amount of time on our program detail pages, making sure they
-were not overly long but still contained all the information necessary
+were easy to digest but still contained all the information necessary
 for someone to be able to tell if a certain program is right for them.
 
 
-We also worked on lots of other pages and functionality including our Learning Roadmap,
-Facilitator search pages and all. Check out the [ATD Education](http://www.astd.org/Education) site!
+Finally we added functionality including a Learning Roadmap (assessment),
+facilitator search pages, among others. Check out the [ATD Education](http://www.astd.org/Education) site!
 
 
 ![Education Search](/public/edu-search.png)

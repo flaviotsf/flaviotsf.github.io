@@ -1,26 +1,23 @@
 ---
 layout: post
-title: Realtime Sales
+title: Real-time Sales
 thumb: realtime-sales.png
 ---
 
-The Realtime Sales was a project I worked on way back in 2006. I had the idea
-of adding real-time information from some of Mercatto's retail stores.
+Real-time Sales was a project I worked on way back in 2006. I had the idea of adding real-time information from some of Mercatto's retail stores.
 
-This system was a huge success. It completly changed the way management would
-act on information. Before it, they had to rely on phone calls or simply wait
-the next day to have sales information and act on it (reduce / increase prices,
-decide what inventory to send to the store, etc.). With real-time sales they
-could track the performance of the store, salespeople and product lines and act
-on that information *fast*.
+This system was a **huge** success. It completely changed the way management would act on information. Before it, upper management had to rely on phone calls or simply waiting for store’s data to be transferred to HQ’s database.
+
+The success of a retailer relies on how quickly one can act on information. Should we reduce prices? Drop promotions? Transfer inventory?
+
+With real-time sales management started to track the performance of the store, sales people and product lines and, most importantly, acting on it as soon as an issue was found.
 
 ![Realtime Sales](/public/vtr.png)
 
 At the time, not all stores had broadband connection. A few days after
-Realtime Sales was implemented on the first store broadband was added to all
+Real-time Sales was implemented on the first store broadband was added to all
 stores! It's cool to see a system created back in 2006 with some of the same
-elements we might find today in dashboard including gauges, charts and an easy
-representation of information.
+elements we might find today in dashboard including gauges, charts and a clean representation of information.
 
 *Yes, that is SQL Server 2000 Query Analyzer and Internet Explorer. The good
 old times.... :)*

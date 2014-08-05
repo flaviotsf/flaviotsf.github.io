@@ -3,9 +3,9 @@ layout: post
 title: Make a Point
 thumb: map.png
 ---
-Make a Point was a very cool system to work on. It started with a simple idea:
-can we create a web form for people to submit praise to their coworkers to HR?
-Then we may let them exchange these by gift cards.
+Make a Point was created with a simple idea:
+can we create a web form for people to submit praise to their coworkers to the Human Resources department?
+We may want to give gift cards to these employees.
 
 I thought the idea was great, but a form by itself would not create a level
 of engagement that we were looking for.
