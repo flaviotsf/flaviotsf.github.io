@@ -24,10 +24,10 @@ facilitator search pages, among others. Check out the [ATD Education](http://www
 
 
 ![Education Search](/public/edu-search.png)
-*The education search page*
+*The education search page.*
 
 ![Education Easy Add to Cart](/public/edu-easy-cart.png)
-*Adding a program to your cart is easy!*
+*Adding a program to your cart is easy.*
 
 ![Facilitator Search](/public/edu-fac-search.png)
 *Among other things, we allow searching for facilitators.*
