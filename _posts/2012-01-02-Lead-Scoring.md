@@ -6,10 +6,10 @@ thumb: lead-score.png
 We decided to create a lead scoring algorithm to be able to deliver relevant
 content to our customers.
 
-Me and some other ATD folks sat on a room and decided that - at a minimum -
+Myself and some other ATD folks sat in a room and decided that - at a minimum -
 we should be able to attribute lead score points to:
 
-* **Orders**: each of our products are mapped to our areas of interest.
+* **Orders**: each of our products is mapped to our areas of interest.
 
 * **Web site visits**: we published a ton of blogs, articles and newsletters.
 
