@@ -26,7 +26,7 @@ Once the data collection started, we created a function
 that assigns a point for each of the above mentioned activities. We also added a decay factor
 to each of them so a "Web Article Point" today is worth "1" but an article viewed a year ago is only worth 0.02, as an example.
 
-Finally, we are 'flattening' these lead scores (having 50, 100, 1000) points might be the same when 'interest' is concerned. So we wanted to stay with a 0-100 range.
+Finally, we are 'flattening' these lead scores so all customers are in between a 0-100 range.
 
 At ATD we have over 10 lead score fields per customer.
 
