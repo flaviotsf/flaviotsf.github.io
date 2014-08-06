@@ -19,7 +19,7 @@ This is how Make a Point looks today:
 I've blurred the feed on the right where anyone can see who is receiving points and also find out what great work they have done.
 
 We've also made the site responsive and added some special tags so it can be
-added to iPhones and Androids as a webapp. This way you can send points anytime.
+bookmarked to iPhones and Androids as a webapp. This way anyone can send points anytime.
 
 Finally, I built an admin section for our HR department so they can track and
 manage employees and run reports.
