@@ -5,7 +5,7 @@ thumb: outlook.png
 ---
 
 At work, we had an awesome workshop on applying David Allen's [*Getting Things Done*](http://gettingthingsdone.com)
-to our daily routines at work.
+to our daily routines.
 
 GTD relies heavily on Outlook: organizing folders, setting up tasks, etc. The main issue I had was that
 we used an independent ticketing system at work so my Outlook Tasks were not giving me a comprehensive
