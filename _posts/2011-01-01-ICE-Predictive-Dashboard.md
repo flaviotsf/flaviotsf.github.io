@@ -9,4 +9,4 @@ Here is an example (numbers were blurred since they are proprietary information)
 
 ![Conference Predictive Dashboard](/public/predictive-nocomments.png)
 
-The widespread growth of visualization tools, including [Tableau](http://www.tableau.com), makes for a far easier filtering and segmentation logic. As Tableau users, we definitely plan on moving this from a .NET solution to a Tableau dashboard. I think this looks pretty good for a system created way back in 2011 :) 
+This system was first introduced in **2011**. Visualization tools, including [Tableau](http://www.tableau.com), make for a far easier filtering and segmentation logic. As Tableau Server users, we definitely plan on moving this from a .NET solution to a Tableau dashboard. :)
