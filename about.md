@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="message">
-  Hi there. I'm Flavio, a Solutions Architect at ATD, the <a href="http://www.atd.org">Association for Talent Development</a>.
+  Hi there. I'm Flavio, a Solutions Architect at ATD, the <a href="http://www.td.org">Association for Talent Development</a>.
 </p>
 
 I hold a MSc from [George Washington University](http://www.gwu.edu) in Systems Engineering
