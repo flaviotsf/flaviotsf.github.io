@@ -10,7 +10,7 @@ This system was a **huge** success. It completely changed the way management wou
 
 The success of a retailer relies on how quickly one can act on information. Should we reduce prices? Drop promotions? Transfer inventory?
 
-Management started to track the performance of the store, sales people and product lines in real-time. Most importantly, they were making data-driven decisions faster than ever.
+Management started to track the performance of the store, sales people and product lines in real-time. Most importantly, they were making data-driven decisions faster than ever before.
 
 ![Realtime Sales](/public/vtr.png)
 
