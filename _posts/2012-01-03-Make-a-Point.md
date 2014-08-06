@@ -5,7 +5,7 @@ thumb: map.png
 ---
 Make a Point was created from a simple idea:
 *Can we create a web form for people to submit praise about their coworkers to the Human Resources department?*
-We may want to give gift cards to these employees.
+The company would reward these employees with gift cards.
 
 I thought the idea was great, but a form by itself would not create a level
 of engagement that we were looking for.
