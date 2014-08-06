@@ -3,8 +3,8 @@ layout: post
 title: Make a Point
 thumb: map.png
 ---
-Make a Point was created with a simple idea:
-can we create a web form for people to submit praise to their coworkers to the Human Resources department?
+Make a Point was created from a simple idea:
+*Can we create a web form for people to submit praise about their coworkers to the Human Resources department?*
 We may want to give gift cards to these employees.
 
 I thought the idea was great, but a form by itself would not create a level
@@ -16,7 +16,7 @@ praises, and at the same time keep track of what's happening at the company?
 This is how Make a Point looks today:
 ![Make a Point Landing Page](/public/map-landing.png)
 
-We've also made the site resposive and added some special tags so it can be
+We've also made the site responsive and added some special tags so it can be
 added to iPhones and Androids as a webapp. This way you can send points anytime.
 
 Finally, I built an admin section for our HR department so they can track and
