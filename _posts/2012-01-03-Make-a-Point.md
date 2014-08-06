@@ -21,8 +21,7 @@ I've blurred the feed on the right where anyone can see who is receiving points 
 We've also made the site responsive and added some special tags so it can be
 bookmarked to iPhones and Androids as a webapp. This way anyone can send points anytime.
 
-Finally, I built an admin section for our HR department so they can track and
-manage employees and run reports.
+Finally, I built an admin section for our HR department so that they can manage data and run reports.
 
 ![Make a Point Claim](/public/map-claim.png)
 *Make a Point claim page*
