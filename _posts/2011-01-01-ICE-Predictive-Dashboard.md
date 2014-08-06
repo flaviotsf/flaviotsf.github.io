@@ -5,7 +5,7 @@ thumb: predictive.png
 ---
 At ATD I've always seen folks run around gathering reports for our annual conference. Observing that, I thought it would be a great idea to create a simple dashboard that not only contained real-time data but also had a predictive component.
 
-This little dashboard, first introduced in **2011**, was a big hit and is still used today. As usual, we keep tweaking the prediction algorithm usually by adding more variables to the mix (e.g. early bird schedules, promotions, etc.).
+This little dashboard, first introduced in **2011**, was a big hit and is still used today. As usual, we keep tweaking the prediction algorithm by adding more variables to the mix (e.g. early bird schedules, promotions, etc.).
 Here is an example (numbers were blurred since they are proprietary information).
 
 ![Conference Predictive Dashboard](/public/predictive-nocomments.png)
