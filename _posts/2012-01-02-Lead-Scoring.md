@@ -30,5 +30,4 @@ Finally, we are 'flattening' these lead scores so all customers are in between a
 
 At ATD we have over 10 lead score fields per customer.
 
-We use this information to target ads on our site, recommended products and a lot
-of other things.
+We use this information to target ads on our site and recommend products, to name a few.
