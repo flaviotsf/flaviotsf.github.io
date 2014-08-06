@@ -19,7 +19,7 @@ to understand what are their interests.
 
 
 To have that information we had to put a lot of things in place, between
-tagging content effectively, using web analytics to all it's potential, and creating
+tagging content effectively, using web analytics to all its potential, and creating
 systems that would allow us to track things such as email link clicks.
 
 Once the data collection started, we created a function
