@@ -14,8 +14,8 @@ Management started to track the performance of the store, sales people and produ
 
 ![Realtime Sales](/public/vtr.png)
 
-It's cool to see a system created back in 2006 with some of the same
-elements we might find today in dashboard including gauges, charts and a clean representation of information.
+It's cool to see a system created back in 2006 using some of the same
+elements we might find today in dashboards such as gauges, charts and a clean representation of information.
 
 *Yes, that is SQL Server 2000 Query Analyzer and Internet Explorer. The good
 old times.... :)*
