@@ -15,7 +15,7 @@
 .image-post {
 	width: 9.5rem;
 	height: 9.5rem;
-	float: left;
+	display: inline-block;
 	margin: 0.5rem;
 	position: relative;
 }
@@ -56,6 +56,11 @@
 	display: block;
 }
 
+
+.thumblist {
+	text-align:center;
+}
+
 .post-list-thumb {
 	height: 6rem;
 	width: 6rem;
@@ -63,6 +68,7 @@
 	margin: 0 1rem 0 0;
 	border-radius: 0;
 }
+
 
 
 /* Header */
