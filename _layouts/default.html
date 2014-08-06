@@ -57,31 +57,6 @@
   }).attr('target', '_blank');
 
 
- $(window).scroll(function() {
-   changeMasthead();
- });
-
- $(window).bind('touchmove',function(e){
-    var scroll = $(window).scrollTop();
-    console.log(e.originalEvent.touches[0].pageX);
-    console.log(scroll);
-
-});
-
-
-   function changeMasthead() {
-    var scroll = $(window).scrollTop();
-    // add the 'active' class to the correct li based on the scroll amount
-    if (scroll <= 10) {
-      $("#masthead").removeClass("masthead-active");
-    }
-    else {
-
-      if(!$("#masthead").hasClass('masthead-active')) {
-        $("#masthead").addClass("masthead-active");
-      }
-    }
-  }
 
   </script>
 </body>

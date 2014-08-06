@@ -67,30 +67,18 @@
 
 /* Header */
 .masthead  {
-	-webkit-translate: translateX(0);
   position: fixed;
   width: 100%;
   top: 0;
-  height: 200px;
+  height: 70px;
 	-webkit-transition: all .2s ease-in-out;
 					transition: all .2s ease-in-out;
 }
 
-
-.masthead-active {
-  height: 70px;
-  -webkit-transition: all .2s ease-in-out;
-          transition: all .2s ease-in-out;
-}
-
 .masthead h3 {
-  font-size: 2.2em;
-  position: absolute;
-  top: 3.5rem;
-  margin-top: 0;
-}
 
-.masthead-active h3 {
+  position: absolute;
+  margin-top: 0;
   font-size: 1.2em;
   top: 1.2rem;
   left: 4.5rem;
