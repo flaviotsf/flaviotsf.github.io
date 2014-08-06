@@ -11,10 +11,12 @@ I thought the idea was great, but a form by itself would not create a level
 of engagement that we were looking for.
 
 So I thought: Why not create a simple system where folks can not only submit their
-praises but and at the same time keep track of what's happening at the company?
+praises but and at the same time keep track of what's happening in the company?
 
 This is how Make a Point looks today:
 ![Make a Point Landing Page](/public/map-landing.png)
+
+I've blurred the feed on the right where anyone can see who is receiving points and also find out what great work they have done.
 
 We've also made the site responsive and added some special tags so it can be
 added to iPhones and Androids as a webapp. This way you can send points anytime.
