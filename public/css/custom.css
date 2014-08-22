@@ -81,6 +81,15 @@
 					transition: all .2s ease-in-out;
 }
 
+.masthead-title { 
+  min-width:320px;
+}
+
+@media (max-width: 48em) { 
+  .masthead-title {
+    text-align: left;
+  }	
+}
 .masthead h3 {
 
   position: absolute;
